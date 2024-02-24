@@ -1,4 +1,3 @@
-(https://github.com/Vannn27/Vannn27/assets/115488030/210c04bf-9974-4322-ad28-efd2859779af)
 <h1 align="center">Hi 👋, I'm Alwynn!</h1>
 
 <h3 align="center">A zealous student from the Philippines</h3>
@@ -25,7 +24,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vannn27&show_icons=true&locale=en&layout=compact" alt="vannn27" /></p>
 
 
+![570bff94741135b85788bddfb3c72afc](https://github.com/Vannn27/Vannn27/assets/115488030/625c66f6-b08d-4c9a-871a-3638af2529f3)
 
 
-!(hello.png)
 
